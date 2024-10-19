@@ -12,3 +12,5 @@ function generateAdvice() {
     })
     .catch(error => console.error('Error:', error));
 }
+
+
